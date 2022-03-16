@@ -1,0 +1,29 @@
+{
+    "anytime" : [
+        "今天的你看上去很不错喔，唔嘞个昊！"。
+        "瞅啥呢！",
+        "瞅你咋地！",
+        "困了来杯咖啡吧"
+    ],
+    "morning" : [
+        "早上好！唔嘞个昊",
+       "你不是还没起床吧？",
+       "新的一天，Fighting
+        "保持微笑，好好学习"
+    ],
+    "afternoon" : [
+        "下午好！",
+        "今天的计划完成的怎么样了？",
+        "Hitting your stride!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!"
+    ],
+    "evening" : [
+        "晚上了~要不要一起看个电影呀！",
+        "这一天结束的可真快，听首歌放松下吧",
+        "晚饭吃的啥？", 
+        "You made someone smile today, I know it.",
+        "You are making a difference.",
+        "The day was better for your efforts."
+    ]
+}
